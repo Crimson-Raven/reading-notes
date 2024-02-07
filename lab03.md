@@ -1,1 +1,3 @@
-# Reading Notes: Lab 03
+# Author: Rebecca Childs
+
+## Reading Notes: Lab 03
