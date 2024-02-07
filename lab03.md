@@ -13,4 +13,4 @@ CMOS stands for Complementary Metal Oxide Semiconductor. The CMOS produces integ
 ### What is the CMOS battery?
 The CMOS battery is what powers your computer’s BIOS, which is responsible for booting up your pc and configuring dataflow. 
 ## Things I want to learn more about:
-When was the first BIOS made?
+N/A
