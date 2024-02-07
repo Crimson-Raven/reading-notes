@@ -1,3 +1,3 @@
-### Author: Rebecca Childs
+# Author: Rebecca Childs
 ## Reading Notes:
 ### Lab 04
