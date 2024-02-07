@@ -12,3 +12,5 @@ POST is a process where the BIOS checks the basic hardware components to ensure 
 CMOS stands for Complementary Metal Oxide Semiconductor. The CMOS produces integrated circuits (IC chips), and is used in batteries, microprocessors, digital camera image sensors, and more electronic components. The CMOS is used to store critical data used by the operating system during the booting process. 
 ### What is the CMOS battery?
 The CMOS battery is what powers your computer’s BIOS, which is responsible for booting up your pc and configuring dataflow. 
+## Things I want to learn more about:
+When was the first BIOS made?
