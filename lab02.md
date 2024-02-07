@@ -1,4 +1,4 @@
-# Reading Notes Lab 02
+# Reading Notes: Lab 02
 Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need? 
 More cores would be better for gaming, higher speed would be better for an everyday at-home/work computer. When it comes to how many cores a computer needs, it fully depends on what the computer will be used for. A gaming pc is recommended to have 6 cores, whereas a pc that will be doing just basic functions is recommended to have 2 cores.
 
