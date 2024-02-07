@@ -3,16 +3,16 @@
 ## Reading Notes:
 ### Lab 02
 
-Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need? 
+### Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need? 
 More cores would be better for gaming, higher speed would be better for an everyday at-home/work computer. When it comes to how many cores a computer needs, it fully depends on what the computer will be used for. A gaming pc is recommended to have 6 cores, whereas a pc that will be doing just basic functions is recommended to have 2 cores.
 
-What details are you looking for when finding a motherboard which fits your processor?
+### What details are you looking for when finding a motherboard which fits your processor?
 You’ll want to check the socket of the CPU and motherboard, as well as the onboard Wi-Fi, Bluetooth capabilities, Multiple RAM slots or high RAM capacity, and in some cases a support for a graphics card(s).
 
-What are the tradeoffs you’d evaluate while selecting a storage device?
+### What are the tradeoffs you’d evaluate while selecting a storage device?
 Pricing, speed, storage capacity.
 
-Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with?
+### Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with?
 The case of a computer kind of reminds me of turtles. They both have a hard outer shell and you don’t want to be rough with them because they can be very fragile on the inside.
 
 The motherboard is the heart of the computer. It feels everything, and connects it all together simultaneously. Also if it breaks, other things might not work as well. 
