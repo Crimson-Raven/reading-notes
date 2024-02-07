@@ -10,3 +10,5 @@ You’d choose to install LTS over regular Ubuntu for longevity, and consistency
 The Ubuntu GNOME Shell is the graphical display that belongs to the GNOME desktop environment. This covers the GNOME overview screens, the activities and the applications.
 ### How do I install software from the command line?
 Open the terminal window and enter the desired command to update the system. You can also install software from the command line by using apt-get.
+## Things I want to learn more about:
+N/A
