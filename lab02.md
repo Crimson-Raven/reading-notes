@@ -22,3 +22,5 @@ The CPU is the brain of the computer. Our brains function better when we’re in
 The RAM is the computer's short term memory. 
 
 The GPU is how computers dream.. No, but it does make graphics and animations look amazing! Especially with how advanced they’ve gotten over time. It’s Skyrim vs Horizon Zero Dawn. Go look at the GTA 5 trailer vs the GTA 6 trailer, without having to pick your jaw up off the floor!
+## Things I want to learn more about:
+N/A
