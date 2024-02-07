@@ -3,7 +3,7 @@
 ## Reading Notes:
 ### Lab 01
 It's important to understand how computers work and what can happen when the wrong people get ahold of information. In order to provide protection and safety to individuals and companies, we first need to understand the strengths and weaknesses of technology. 
-How is a hardware hack different than a software hack?
+### How is a hardware hack different than a software hack?
 Hardware hacks are more difficult to pull off, can be more devastating, and are less common than software hacks. Hardware hacks require you to be in contact with the physical device, whereas software hacks can be done long distance and over the internet.
 
 ### What are the two ways for spies to alter a computer’s hardware?
