@@ -2,9 +2,9 @@
 ## Reading Notes:
 ### Lab 07
 ### What is the Secure Shell (SSH) Protocol?
-The SSH protocol is a method for secure remote login from one computer to another.It protects communication security with strong encryption, and provides alternative options for strong authentication.
+The SSH protocol is a method for secure remote login from one computer to another. It protects communication security with strong encryption, and provides alternative options for strong authentication.
 ### What are the typical uses of the SSH protocol?
-Some of the typical uses of the SS protocol are providing secure access for users and automated processes, interactive and automated file transfers,issuing remote commands, and managing network infrastructure and other mission-critical system components.
+Some of the typical uses of the SS protocol are providing secure access for users and automated processes, interactive and automated file transfers, issuing remote commands, and managing network infrastructure and other mission-critical system components.
 ### How does the SSH protocol work?
 The SSH protocol works in a client-server model. This means that the connection is established by the SSH client by connecting to the SSH server.
 ### How is the data kept safe when transmitted between the SSH client and server?
