@@ -20,4 +20,4 @@ New FCC rules affect only the 5GHz band. The WRT54GL model operates at 2.4GHz ba
 ### Does the WRT54GL model still get updates from Linksys?
 Yes, the WRT54GL still receives occasional software updates from Linksys. 
 ## Things I want to learn more about:
-Did Bill Gates recieve any type of payment, or credit other than having his name mentioned, for suggesting the name "router"? 
+Did Bill Gates receive any type of payment, or credit other than having his name mentioned, for suggesting the name "router"? 
