@@ -1,4 +1,4 @@
-#Author: Rebecca Childs
+# Author: Rebecca Childs
 ## Reading Notes:
 ### Lab 06
 ### What makes the Linksys WRT54GL famous?
