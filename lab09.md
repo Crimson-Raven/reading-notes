@@ -7,7 +7,7 @@ A command prompt is a command line interpreter application available on most win
 You can find the Command Prompt shortcut in the Start menu or Apps screen, depending on the version of windows you currently have. On some versions of Windows you can also find the Command Prompt through the Power User Menu. You can also open cmd.exe from its original location: C:\Windows\system32\cmd.exe. 
 ### What are some of the most commonly used commands?
 Some of the most commonly used commands are listed below:
-Chkdsk (Check Disk), Copy, ftp (File Transfer Protocol), del (Deletes one or more files), format (Erase Information), ping, attrib (File’s attribute), net (Network-related commands), dir (See directory), help, and shutdown.
+Chkdsk (Check Disk), Copy, ftp (File Transfer Protocol), del (Deletes one or more files), format (Erase Information), ping, attrib (File’s attribute), net (Network-related commands), dir (See directory), help, and shutdown, ipconfig/all (display all configuration information), dxdiag (DirectX Diagnostic Tool), and more. 
 ### What is Windows Power Shell?
 The Windows Power Shell is a text-based command line and scripting language designed for system administration. 
 ### What is Windows Terminal?
