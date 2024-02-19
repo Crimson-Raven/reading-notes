@@ -1,6 +1,6 @@
 # Author: Rebecca Childs
 
-## Reading Notes:
+## Reading Notes: 102
 ### Lab 03
 ### What is the BIOS?
 The BIOS is the Basic Input/Output System, which is stored in the ROM. The BIOS contains all the basic code for controlling your computer hardware. After the operating system takes control, the BIOS does very little. 
