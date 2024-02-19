@@ -1,5 +1,5 @@
 # Author: Rebecca Childs
-## Reading Notes:
+## Reading Notes: 102
 ### Lab 09
 ### What is the Command Prompt?
 A command prompt is a command line interpreter application available on most windows operating systems. It is used for executing commands entered by the user. 
