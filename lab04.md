@@ -1,6 +1,6 @@
 # Author: Rebecca Childs
 
-## Reading Notes:
+## Reading Notes: 102
 ### Lab 04
 ### What is Ubuntu?
 Ubuntu is one of the most popular desktop Linux operating systems. It’s free to install, and free to modify. 
