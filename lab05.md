@@ -1,5 +1,5 @@
 # Author: Rebecca Childs
-## Reading Notes:
+## Reading Notes: 102
 ### Lab 05
 
 ### Explain the terms “shell”, “terminal”, “cli”, and “command prompt”. Why are these still used today, when we have graphical interfaces?
