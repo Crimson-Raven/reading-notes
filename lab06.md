@@ -1,5 +1,5 @@
 # Author: Rebecca Childs
-## Reading Notes:
+## Reading Notes: 102
 ### Lab 06
 ### What makes the Linksys WRT54GL famous?
 Linksys' project to let people install open source firmware on new routers without breaking FCC anti-interference rules. 
