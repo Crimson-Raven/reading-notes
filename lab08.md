@@ -1,5 +1,5 @@
 # Author: Rebecca Childs
-## Reading Notes:
+## Reading Notes: 102
 ### Lab 08
 ### What is an ISO File?
 An ISO file is a file that is the perfect representation of a CD, DVD, or BD. The contents of a disk can be duplicated in a single ISO file. The file is no good unless it’s opened, assembled, and then used. An ISO file can also be referred to as an ISO image. 
