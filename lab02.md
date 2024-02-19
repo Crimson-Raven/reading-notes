@@ -1,6 +1,6 @@
 # Author: Rebecca Childs
 
-## Reading Notes:
+## Reading Notes: 102
 ### Lab 02
 
 ### Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need? 
