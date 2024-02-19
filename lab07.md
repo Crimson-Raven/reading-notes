@@ -1,5 +1,5 @@
 # Author: Rebecca Childs
-## Reading Notes:
+## Reading Notes: 102
 ### Lab 07
 ### What is the Secure Shell (SSH) Protocol?
 The SSH protocol is a method for secure remote login from one computer to another. It protects communication security with strong encryption, and provides alternative options for strong authentication.
