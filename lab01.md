@@ -1,6 +1,6 @@
 # Author: Rebecca Childs
 
-## Reading Notes:
+## Reading Notes: 102
 ### Lab 01
 It's important to understand how computers work and what can happen when the wrong people get ahold of information. In order to provide protection and safety to individuals and companies, we first need to understand the strengths and weaknesses of technology. 
 
